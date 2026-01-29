@@ -1,0 +1,6 @@
+,Sampling1_SimpleRandom,Sampling2_Stratified,Sampling3_Cluster,Sampling4_Bootstrap,Sampling5_Systematic
+RandomForest,0.9959,0.9917,0.9961,0.9967,0.99
+ExtraTrees,0.9975,0.9975,0.999,0.998,0.9933
+LightGBM,0.9934,0.9917,0.9932,0.9954,0.9834
+XGBoost,0.9893,0.9868,0.9844,0.9934,0.9636
+CatBoost,0.9942,0.9909,0.9922,0.9954,0.9736
